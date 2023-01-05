@@ -1,2 +1,2 @@
 # Bank_Simulation_Model
- simulation of a multi-channel queuing problem 
+ Simulation of a multi-channel queuing problem 
