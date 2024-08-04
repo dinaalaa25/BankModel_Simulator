@@ -1,3 +1,3 @@
 # Bank_Simulation_Model 
-Simulation of a multi-channel Queuing problem 
+Simulation of a multi-channel Queuing problem.
 This project addresses the problem of optimizing customer service in a bank with two types of customers, ordinary and distinguished, each having separate queues. It prioritizes distinguished customers, ensuring they are served first unless the teller is busy. The project aims to analyze various performance metrics, such as the average service and waiting times, maximum queue lengths, waiting probabilities, and teller idle time. Additionally, it evaluates the impact of adding an extra teller dedicated to distinguished customers on these metrics. Through systematic experimentation and analysis, the project provides insights into improving service efficiency and customer satisfaction in a bank's multi-channel queue system.
